@@ -33,7 +33,7 @@ for hyperparameters tuning, and from RFE (Recursive Feature Elimination), Select
 Sklearn-genetic-opt uses evolutionary algorithms from the `DEAP <https://deap.readthedocs.io/en/master/>`_  (Distributed Evolutionary Algorithms in Python) package to choose the set of hyperparameters that
 optimizes (max or min) the cross-validation scores, it can be used for both regression and classification problems.
 
-Documentation is available `here <https://sklearn-genetic-opt.readthedocs.io/ target="_blank">`_
+Documentation is available `here <https://sklearn-genetic-opt.readthedocs.io/>  target="_blank"`_
 
 Main Features:
 ##############
